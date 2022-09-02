@@ -1,7 +1,7 @@
 ## Interface: 30400
 
 ## Title: Switcher Tracking TBC multilanguage
-## Version: 1.0.0
+## Version: 1.0.3w
 ## Author: 
 ## Notes: Addon to switch between trackings when out of combat.
 ## SavedVariables: TrackingSwitcherDB
